@@ -4,7 +4,7 @@
 
 ## Description
 
-In this assignment, you will help a fictional band, "The Rockstars," build their website by integrating images and videos using HTML. Your task is to enhance the band's online presence by embedding engaging visual content, such as band photos, album covers, and music videos, directly into their web pages. This project will deepen your understanding of HTML by practicing key tags and attributes like <img> and <video>, allowing you to create visually appealing and accessible multimedia elements that bring the band's story to life.
+In this assignment, you will help a fictional band, "The Rockstars," build their website by integrating images and videos using HTML. Your task is to enhance the band's online presence by embedding engaging visual content, such as band photos, album covers, and music videos, directly into their web pages. This project will deepen your understanding of HTML by practicing key tags and attributes like `<img> `and `<video>`, allowing you to create visually appealing and accessible multimedia elements that bring the band's story to life.
 
 ## Learning Outcomes
 
@@ -51,10 +51,7 @@ code .
 
 [ ] Use the `<img>` tag to add the logo (located in `./assets/images`) to the webpage:
 ```
-<header>
-    <h1>Welcome to The Devs' Official Website</h1>
     <img src="./assets/images/band.jpg" alt="The Devs Band" width="200">
-</header>
 ```
 
 [ ]  Use the `<img>` tag to add concert images (located in `./assets/images`) to the webpage:
@@ -85,3 +82,14 @@ code .
     Your browser does not support the video tag.
 </video>
 ```
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/sdai-wde-d2-images-videos/tree/solution) (link not shown).
+
+
+---
+
+© All rights reserved to ThriveDX
